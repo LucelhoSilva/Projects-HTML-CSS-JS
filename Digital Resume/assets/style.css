@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+body {
+  display: flex;
+  color: #000;
+  background: #020024;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 31%, rgba(0,212,255,1) 74%);
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.center-container{
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+}
+
+.container {
+  width: 30vw;
+  text-align: center;
+  padding: 15px;
+  border: 1px solid #006699;
+  box-shadow: 0 0 5px 5px #00000067;
+  background-color: #d4d4d4;
+}
+
+hr{
+  border: 1px;
+  margin: 15px;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 102, 153, 0.75), rgba(0, 0, 0, 0));
+}
+
+h1{
+  color: #000000;
+  margin: 5px;
+  font-size: 24px;
+} 
+
+img {
+  display: block;
+  width: 150px;
+  border-radius: 10px;
+  align-items: center;
+  margin: 10px auto;
+}
+
+.containerInfo{
+  display: flex;
+  justify-content: space-between;
+}
+.perfilLeft,.perfilRight{
+  width: 30%;
+  font-size: 15px;
+}
+.social_links{
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+#github{
+  color: #000000;
+  font-size: 25px;
+  margin: 0 10px;
+  text-align: center;
+}
+#whatsapp{
+  color: #299e4c;
+  font-size: 25px;
+  margin: 0 10px;
+  text-align: center;
+}
+#linkedin{
+  color: #1605fa;
+  font-size: 25px;
+  margin: 0 10px;
+  text-align: center;
+}
+
+.softSkill li{
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #069;
+  box-shadow: 0 0 5px #069;
+  background-color: lightblue;
+}
+
+.softSkill li:hover{
+  transition: 0.5s all ease-in-out;
+  box-shadow: 0 0 3px 3px #01a8fc;
+}
+
+.course{
+  color: #000000;
+  margin: 0 10px;
+  font-size: 16px;
+  text-align: start;
+}
+
+.idioma li{
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #069;
+  box-shadow: 0 0 5px #069;
+  background-color: lightblue;  
+}
+
+.idioma li:hover{
+  transition: 0.5s all ease-in-out;
+  box-shadow: 0 0 3px 3px #01a8fc;
+}
+
+.exp_title{
+  color: #000000;
+  margin: 10px 20px;
+  font-size: 17px;
+  text-align: start;
+}
+
+.exp_li li,.professionalGoal,.course li{
+  text-align: start;
+  margin: 10px 20px;
+  font-size: 14px;
+}
+
+.exp_comp{
+  font-size: 14px;
+  margin: 5px 20px;
+  text-align: start;
+}
