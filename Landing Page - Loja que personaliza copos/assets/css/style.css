@@ -1,0 +1,316 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f5f5f5;
+}
+
+aside{
+  position: fixed;
+  height: 100vh;
+  width: 300px;
+  background-color: #181717;
+  padding: 20px;
+}
+
+aside a{
+  color: #FFf;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+aside li{
+  text-align: center;
+  list-style: none;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+
+aside li:hover{
+  background-color: #ff9900a6;
+  color: #FFF;
+}
+
+aside .sidebar-container{
+  position: relative;
+  left:auto ;
+  right: auto;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.logo-RJ{
+  display: block;
+  position: relative;
+  height: 200px;
+  margin: 0 auto;
+}
+
+aside footer{
+  color: #ff9900a6;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  padding: 20px;
+}
+
+/* conteudo */
+
+.content {
+	position: absolute;
+	left: 300px;
+	width: calc(100% - 300px);
+}
+
+.content h1, .content h2 {
+	color: #ff9900a6;
+	margin-bottom: 30px;
+}
+
+.content h1 {
+	font-size: 48px;
+}
+
+.content h2 {
+	font-size: 35px;
+}
+
+section {
+	padding-left: 50px;
+}
+
+/* bem vindo */
+
+#sessao-bemvindo {
+	padding-left: 0;
+}
+
+.sessao-bemvindo-content {
+	padding-left: 50px;
+}
+
+#sessao-bemvindo .banner {
+	height: 500px;
+	background-image: url('../img/banner.jpg');
+	background-position: center;
+	background-size: cover;
+}
+
+#sessao-bemvindo h1 {
+	margin-top: 70px;
+}
+
+#sessao-bemvindo::after, #sessao-sobre::after {
+	content: "";
+	display: block;
+	clear: both;
+	margin-bottom: 100px;
+}
+
+.sessao-minibanner {
+	width: 300px;
+	height: 400px;
+	background-image: url('../img/RJ_Brindes_Logo.png');
+	background-position: center;
+	background-size: cover;
+	float: left;
+}
+
+.sessao-descricao {
+	position: absolute;
+	left: 370px;
+	padding-right: 30px;
+}
+
+.sessao-descricao p {
+	line-height: 2;
+	font-size: 16px;
+	margin-bottom: 30px;
+	margin-left: 25px;
+}
+
+.sessao-bemvindo-btn, form input[type=submit] {
+	background-color: #ff9900a6;
+	color: #FFF;
+	text-decoration: none;
+  padding: 10px 20px;
+	transition: .5s;
+	display: block;
+	text-align: center;
+	border: none;
+	cursor: pointer;
+}
+
+.sessao-bemvindo-btn:hover, form input[type=submit]:hover {
+	background-color: #ff0000;
+}
+
+/* sessao sobre */
+
+#sessao-sobre .sessao-minibanner {
+	float: right;
+	margin-right: 50px;
+	background-image: url('../img/Servico1.jpg');
+}
+
+#sessao-sobre .sessao-descricao {
+	position: absolute;
+	left: 25px;
+	width: calc(100% - 400px);
+}
+
+/* galerias */
+
+.banner-galeria {
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+	height: 200px;
+}
+
+#serviços, #produtos, #brindes {
+	padding-right: 50px;
+	margin-bottom: 50px;
+}
+
+.serviços-imgs {
+	width: 18.8%;
+	margin-left: .5%;
+	margin-right: .5%;
+}
+
+#img1 {
+	background-image: url('../img/Servico1.jpg');
+  background-size: 60%;
+  background-repeat: no-repeat;
+	margin-left: 0;
+}
+
+#img2 {
+	background-image: url('../img/Servico2.jpg');
+  background-size: 60%;
+  background-repeat: no-repeat;
+}
+
+#img3 {
+	background-image: url('../img/Servico3.jpg');
+  background-size: 60%;
+  background-repeat: no-repeat;
+}
+
+#img4 {
+	background-image: url('../img/Servico4.jpg');
+  background-size: 60%;
+  background-repeat: no-repeat;
+}
+
+#img5 {
+	background-image: url('../img/Servico5.jpg');
+  background-size: 60%;
+  background-repeat: no-repeat;
+	margin-right: 0;
+}
+
+.produtos-imgs {
+	width: 32.3%;
+	margin-left: .5%;
+	margin-right: .5%;
+}
+
+#img6 {
+	background-image: url('../img/produto1.jpg');
+  background-size: 60%;
+  background-repeat: no-repeat;
+	margin-left: 0;
+}
+
+#img7 {
+	background-image: url('../img/produto2.jpg');
+  background-size: 60%;
+  background-repeat: no-repeat;
+}
+
+#img8 {
+	background-image: url('../img/produto3.jpg');
+  background-size: 60%;
+  background-repeat: no-repeat;
+	margin-right: 0;
+}
+
+.doces3-imgs {
+	width: 23.9%;
+	margin-left: .5%;
+	margin-right: .5%;
+}
+
+#img9 {
+	background-image: url('../img/brinde1.jpg');
+	margin-left: 0;
+  background-size: 60%;
+  background-repeat: no-repeat;
+}
+
+#img10 {
+	background-image: url('../img/brinde2.jpg');
+  background-position: center;
+  background-size: 60%;
+  background-repeat: no-repeat;
+}
+
+
+/* contato */
+
+#form-contato {
+	width: 500px;
+}
+
+#form-contato input[type=text], #form-contato input[type=email], #form-contato textarea {
+	display: block;
+	border: 1px solid #ff9900a6;
+	padding: 10px;
+	margin-bottom: 20px;
+	width: 100%;
+	font-size: 16px;
+	font-family: 'Open sans', sans-serif;
+}
+
+#form-contato input[type=text]:focus, #form-contato input[type=email]:focus, #form-contato textarea:focus {
+	border-color: #ff9900a6;
+}
+
+#form-contato textarea {
+	height: 150px;
+}
+
+#form-contato ::placeholder {
+	color: #ff9900a6;
+}
+
+#form-contato input[type=submit] {
+	margin-left: 0;
+	font-size: 16px;
+	width: 180px;
+}
+
+/* footer */
+
+footer {
+	height: 100px;
+	padding-top: 150px;
+	color: #006599;
+}
+
+footer p {
+	text-align: center;
+	font-weight: bold;
+}
+
+#logo-img{
+	width: 500px;
+}
