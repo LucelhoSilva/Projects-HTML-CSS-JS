@@ -31,7 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/A7yMlfMiXUWx5iKaw3NNcL/Login-Screen?type=design&t=pbGHkHI4uy4UjI6Z-6){:target="\_blank"}. É necessário ter conta no [Figma](https://figma.com){:target="\_blank"} para acessá-lo.
+Você pode visualizar o layout do projeto<a href="https://www.figma.com/file/A7yMlfMiXUWx5iKaw3NNcL/Login-Screen?type=design&t=pbGHkHI4uy4UjI6Z-6" target="_blank"> Neste Link</a>.
+
+É necessário ter conta no <a href="https://figma.com" target="_blank">Figma</a> para acessá-lo.
 
 ## Licença
 
