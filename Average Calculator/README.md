@@ -1,9 +1,8 @@
-<h1 align="center"> Animated Login </h1>
+<h1 align="center"> Average Calculator </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -14,24 +13,20 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/IMG/preview-templates.png">
+  <img alt="projeto DevLinks" src="./assets/img/preview-templates.png" width="70%">
 </p>
 
 ## 🚀 Tecnologias
 
 | Linguagens | Controle de Versão | Design e Prototipagem | IDE                |
 | ---------- | ------------------ | --------------------- | ------------------ |
-| HTML       | Git                | Figma                 | Visual Studio Code |
+| HTML       | Git                |                       | Visual Studio Code |
 | CSS        | GitHub             |                       |                    |
 | JavaScript |                    |                       |                    |
 
 ## 💻 Projeto
 
-- Esse aonde pratico alguns conhecimentos de HTML e CSS, com o objetivo de criar um formulário de login com animação.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/A7yMlfMiXUWx5iKaw3NNcL/Login-Screen?type=design&t=pbGHkHI4uy4UjI6Z-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+- Este é um projeto onde pratico alguns conhecimentos de HTML, CSS e JavaScript com o objetivo de criar uma calculadora que faz média das notas escolares. Assim que você executa o código, ele pede para informar qual seria a média, e após isso você já pode estar inserindo as notas. O programa informa se você foi aprovado ou reprovado.
 
 ## Licença
 
@@ -39,4 +34,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by LucelhoSilva [Entre em contato!](https://www.linkedin.com/in/lucelhosilva/)
+Projeto feito com ajuda da ♥ by EBAC (escola britânica de artes criativas e tecnologia)
