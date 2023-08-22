@@ -27,7 +27,7 @@
 
 ## 💻 Projeto
 
-- Esse aonde pratico alguns conhecimentos de HTML e CSS, com o objetivo de criar um formulário de login com animação.
+- Onde pratico alguns conhecimentos de HTML e CSS, com o objetivo de criar um formulário de login com animação.
 
 ## 🔖 Layout
 
