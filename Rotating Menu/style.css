@@ -1,0 +1,113 @@
+:root {
+  --cor-destaque: rgb(255, 101, 101);
+  --cor-fundo: rgba(0, 0, 0, 0.8);
+  --cor-texto: rgba(255, 255, 255, 0.8);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--cor-fundo);
+  overflow-x: hidden;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  transition: transform 0.5s linear;
+  transform-origin: top left;
+  padding: 5rem 17rem;
+  width: 100vw;
+  height: fit-content;
+  background-color: white;
+}
+
+.content.showNav {
+  padding: 5rem 17rem;
+}
+
+.content .img {
+  max-width: 1000px;
+}
+
+.content h1,
+p,
+h2 {
+  padding: 1rem 0 0 0;
+}
+
+.circleMenu {
+  position: absolute;
+  top: -100px;
+  left: -100px;
+  z-index: 1;
+}
+
+.menu {
+  background-color: var(--cor-destaque);
+  width: 12.5rem;
+  height: 12.5rem;
+  border-radius: 50%;
+  transition: transform 0.5s linear;
+}
+
+button {
+  font-size: 26px;
+  color: var(--cor-texto);
+  border: none;
+  background: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 100px;
+}
+
+.menu button#close {
+  top: 60%;
+  transform: rotate(90deg);
+  transform-origin: top left;
+}
+
+.menu button#open {
+  left: 60%;
+}
+
+button i {
+  cursor: pointer;
+}
+
+.showNav {
+  transform: rotate(-20deg);
+}
+
+.showNav.menu {
+  transform: rotate(-90deg);
+}
+
+nav {
+  position: fixed;
+  left: 0;
+  top: 70%;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: rem;
+  margin-left: 2rem;
+  list-style: none;
+  color: var(--cor-texto);
+  font-size: 1.5rem;
+}
