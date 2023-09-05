@@ -1,5 +1,8 @@
-# Rotating Menu
+<h1 align="center"> Rotating Menu </h1>
 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue&labelColor=000000">
+</p>
 <p align="center">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/LucelhoSilva/Beginner-Projects-HTML-CSS-JS?style=social">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/LucelhoSilva/Beginner-Projects-HTML-CSS-JS?style=social">
@@ -12,11 +15,17 @@
 
 ## Sumário
 
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Descrição do Projeto](#descrição-do-projeto)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Utilizar](#como-utilizar)
 - [Licença](#licença)
 - [Autor](#autor)
+
+## Descrição do Projeto
+
+O projeto "Rotating Menu" é um site estático que oferece um artigo informativo e inspirador sobre a profunda conexão entre os seres humanos e seus fiéis amigos de quatro patas, os cachorros. Este projeto é uma demonstração prática de desenvolvimento web, onde são aplicados conhecimentos em HTML, CSS e JavaScript para criar uma experiência envolvente para os leitores.
+
+O destaque do projeto é o menu rotativo localizado no canto superior esquerdo da página. Esse menu é circular e gira quando ativado, criando uma animação de rotação única.
 
 ## Tecnologias Utilizadas
 
@@ -25,10 +34,6 @@
 - **Design e Prototipagem:**
 - **IDE:** Visual Studio Code
 - **Hospedagem do Código:** GitHub
-
-## Descrição do Projeto
-
-O projeto "Rotating Menu" é um site estático que oferece um artigo informativo e inspirador sobre a profunda conexão entre os seres humanos e seus fiéis amigos de quatro patas, os cachorros. Este projeto é uma demonstração prática de desenvolvimento web, onde são aplicados conhecimentos em HTML, CSS e JavaScript para criar uma experiência envolvente para os leitores.O destaque do projeto é o menu rotativo localizado no canto superior esquerdo da página. Esse menu é circular e gira quando ativado, criando uma animação de rotação única.
 
 ## Como Utilizar
 
