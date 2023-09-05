@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Link Tree">
+  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Link Tree ">
 </p>
 
 ## Descrição do Projeto
