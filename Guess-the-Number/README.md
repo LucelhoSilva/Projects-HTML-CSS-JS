@@ -1,42 +1,59 @@
-<h1 align="center"> Animated Login </h1>
+<h1 align="center"> Link Tree </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#descrição-do-projeto">Descrição do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-utilizar">Como Utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#autor">Autor</a>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue&labelColor=000000">
 </p>
-
-<br>
+<p align="center">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/LucelhoSilva/Beginner-Projects-HTML-CSS-JS?style=social">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/LucelhoSilva/Beginner-Projects-HTML-CSS-JS?style=social">
+  <img alt="GitHub views" src="https://img.shields.io/github/watchers/LucelhoSilva/Beginner-Projects-HTML-CSS-JS?style=social">
+</p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/IMG/preview-templates.png">
+  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Link Tree">
 </p>
 
-## 🚀 Tecnologias
+## Descrição do Projeto
 
-| Linguagens | Controle de Versão | Design e Prototipagem | IDE                |
-| ---------- | ------------------ | --------------------- | ------------------ |
-| HTML       | Git                | Figma                 | Visual Studio Code |
-| CSS        | GitHub             |                       |                    |
-| JavaScript |                    |                       |                    |
+O "GuessNumber" é um jogo de adivinhação desenvolvido em HTML, CSS e JavaScript. É divertido e desafiador, permitindo que você teste suas habilidades ao tentar adivinhar um número entre 0 e 10. O jogo é uma ótima maneira de passar o tempo e aprimorar suas capacidades de adivinhação enquanto se diverte.
 
-## 💻 Projeto
+## Tecnologias Utilizadas
 
-- Onde pratico alguns conhecimentos de HTML e CSS, com o objetivo de criar um formulário de login com animação.
+- **Linguagens:** HTML, CSS, JavaScript
+- **Controle de Versão:** Git
+- **Design e Prototipagem:**
+- **IDE:** Visual Studio Code
+- **Hospedagem do Código:** GitHub
 
-## 🔖 Layout
+## Como Utilizar
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/A7yMlfMiXUWx5iKaw3NNcL/Login-Screen?type=design&t=pbGHkHI4uy4UjI6Z-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Para utilizar o projeto localmente, siga estas etapas:
+
+1. Faça o Fork do Repositório:
+
+   ```bash
+   clique no botão "Fork" no canto superior direito da página
+   ```
+
+2. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/rotating-menu.git
+   cd rotating-menu
+   ```
 
 ## Licença
 
-Esse projeto está sob a licença MIT.
+Este projeto está sob a [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE). Consulte o arquivo [LICENSE](./LICENSE) para obter mais detalhes.
 
----
+## Autor
 
-Feito com ♥ by LucelhoSilva [Entre em contato!](https://www.linkedin.com/in/lucelhosilva/)
+Feito com ❤️ by LucelhoSilva [Entre em contato!](https://www.linkedin.com/in/lucelhosilva/)

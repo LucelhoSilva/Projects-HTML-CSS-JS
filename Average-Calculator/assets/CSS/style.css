@@ -1,39 +1,39 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Roboto'sans-serif;
+  font-family: "Roboto" sans-serif;
 }
 
-body{
+body {
   background: #e7e7e7;
   padding-top: 100px;
 }
 
-header{
+header {
   display: flex;
   align-items: center;
   margin-bottom: 40px;
 }
 
-header img{
+header img {
   height: 36px;
   margin-right: 16px;
 }
 
-header h1{
+header h1 {
   font-size: 40px;
   font-weight: bold;
 }
 
-.container{
+.container {
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
   padding: 0 20px;
 }
 
-form{
+form {
   display: flex;
   max-width: 640px;
   width: 100%;
@@ -41,7 +41,7 @@ form{
   margin-bottom: 56px;
 }
 
-form input{
+form input {
   font-size: 24px;
   background-color: transparent;
   border: none;
@@ -50,31 +50,31 @@ form input{
   padding: 8px;
 }
 
-form input:focus{
+form input:focus {
   outline: none;
 }
 
 form button {
   background-color: #009432;
   font-weight: bold;
-  color: #FFF;
+  color: #fff;
   padding: 8px;
   border: none;
   cursor: pointer;
 }
 
-table{
+table {
   width: 100%;
 }
 
-table th{
+table th {
   border-bottom: 2px solid #000;
   padding: 16px;
   font-size: 24px;
   font-weight: bold;
 }
 
-table td{
+table td {
   padding: 8px 0;
   text-align: center;
   font-size: 18px;
@@ -82,22 +82,22 @@ table td{
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-table td img{
+table td img {
   height: 30px;
 }
 
-.resultado{
+.resultado {
   padding: 8px;
   font-weight: bold;
-  color: #FFF;
+  color: #fff;
   background-color: #000;
   border-radius: 3px;
 }
 
-.aprovado{
+.aprovado {
   background-color: #009432;
 }
 
-.reprovado{
-  background-color: #EA2027;
+.reprovado {
+  background-color: #ea2027;
 }

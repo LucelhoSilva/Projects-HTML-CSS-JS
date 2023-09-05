@@ -1,37 +1,63 @@
 <h1 align="center"> Average Calculator </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#descrição-do-projeto">Descrição do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-utilizar">Como Utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#autor">Autor</a>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue&labelColor=000000">
+</p>
+<p align="center">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/LucelhoSilva/Beginner-Projects-HTML-CSS-JS?style=social">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/LucelhoSilva/Beginner-Projects-HTML-CSS-JS?style=social">
+  <img alt="GitHub views" src="https://img.shields.io/github/watchers/LucelhoSilva/Beginner-Projects-HTML-CSS-JS?style=social">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Projeto - Average Calculator" src="./assets/img/preview-templates.png" width="70%">
+  <img alt="Projeto - Average Calculator" src="./assets/IMG/preview-templates.png">
 </p>
 
-## 🚀 Tecnologias
+## Descrição do Projeto
 
-| Linguagens | Controle de Versão | Design e Prototipagem | IDE                |
-| ---------- | ------------------ | --------------------- | ------------------ |
-| HTML       | Git                |                       | Visual Studio Code |
-| CSS        | GitHub             |                       |                    |
-| JavaScript |                    |                       |                    |
+A "Calculadora de Médias" é uma aplicação web desenvolvida em HTML, CSS e JavaScript, projetada para auxiliar no cálculo de médias de notas atribuídas a atividades e tarefas. Esta ferramenta versátil é muito util para estudantes, professores e profissionais que desejam monitorar seu desempenho em várias tarefas e avaliações. Com uma interface simples, você pode inserir o nome da atividade e a nota correspondente, e a aplicação calculará automaticamente a média. Essa funcionalidade economiza tempo e ajuda a manter um registro organizado do progresso acadêmico ou profissional.
 
-## 💻 Projeto
+## Tecnologias Utilizadas
 
-- Este é um projeto onde pratico alguns conhecimentos de HTML, CSS e JavaScript com o objetivo de criar uma calculadora que faz média das notas escolares. Assim que você executa o código, ele pede para informar qual seria a média, e após isso você já pode estar inserindo as notas. O programa informa se você foi aprovado ou reprovado.
+- **Linguagens:** HTML e CSS
+- **Controle de Versão:** Git
+- **Design e Prototipagem:** Figma
+- **IDE:** Visual Studio Code
+- **Hospedagem do Código:** GitHub
+
+## Como Utilizar
+
+Para utilizar o projeto localmente, siga estas etapas:
+
+1. Faça o Fork do Repositório:
+
+   ```bash
+   clique no botão "Fork" no canto superior direito da página
+   ```
+
+2. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/rotating-menu.git
+   cd rotating-menu
+   ```
 
 ## Licença
 
-Esse projeto está sob a licença MIT.
+Este projeto está sob a [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE). Consulte o arquivo [LICENSE](./LICENSE) para obter mais detalhes.
 
----
+## Autor
 
-Projeto feito com ajuda da ♥ by EBAC (escola britânica de artes criativas e tecnologia)
+Feito com ❤️ por Lucelho Silva. [Entre em contato !](https://www.linkedin.com/in/lucelho-silva-b17196239/)
+
+Projeto feito com ajuda da EBAC (escola britânica de artes criativas e tecnologia)

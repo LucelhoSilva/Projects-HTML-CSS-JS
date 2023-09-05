@@ -1,6 +1,14 @@
 <h1 align="center"> Rotating Menu </h1>
 
 <p align="center">
+  <a href="#descrição-do-projeto">Descrição do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-utilizar">Como Utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#autor">Autor</a>
+</p>
+
+<p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue&labelColor=000000">
 </p>
 <p align="center">
@@ -10,16 +18,8 @@
 </p>
 
 <p align="center">
-  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Animated Login">
+  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Rotating Menu">
 </p>
-
-## Sumário
-
-- [Descrição do Projeto](#descrição-do-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Utilizar](#como-utilizar)
-- [Licença](#licença)
-- [Autor](#autor)
 
 ## Descrição do Projeto
 
@@ -30,7 +30,7 @@ O destaque do projeto é o menu rotativo localizado no canto superior esquerdo d
 ## Tecnologias Utilizadas
 
 - **Linguagens:** HTML, CSS, JavaScript
-- **Controle de Versão:**
+- **Controle de Versão:** Git
 - **Design e Prototipagem:**
 - **IDE:** Visual Studio Code
 - **Hospedagem do Código:** GitHub
