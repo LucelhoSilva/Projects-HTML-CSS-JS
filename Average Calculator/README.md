@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/img/preview-templates.png" width="70%">
+  <img alt="Projeto - Average Calculator" src="./assets/img/preview-templates.png" width="70%">
 </p>
 
 ## 🚀 Tecnologias

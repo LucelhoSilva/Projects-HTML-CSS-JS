@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./assets/IMG/preview-templates.png">
+  <img alt="Projeto - Animated Login" src="./assets/IMG/preview-templates.png">
 </p>
 
 ## 🚀 Tecnologias
