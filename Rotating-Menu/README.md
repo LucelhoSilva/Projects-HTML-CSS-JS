@@ -1,13 +1,10 @@
 # Rotating Menu
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/LucelhoSilva/Beginner-Projects-HTML-CSS-JS?style=social">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/LucelhoSilva/Beginner-Projects-HTML-CSS-JS?style=social">
+  <img alt="GitHub views" src="https://img.shields.io/github/watchers/LucelhoSilva/Beginner-Projects-HTML-CSS-JS?style=social">
 </p>
-
-![GitHub](https://img.shields.io/github/license/lucelhosilva/RotatingMenu)
-![GitHub stars](https://img.shields.io/github/stars/lucelhosilva/Bot_Vagas_de_Emprego)
-![GitHub forks](https://img.shields.io/github/forks/lucelhosilva/Bot_Vagas_de_Emprego)
-![GitHub issues](https://img.shields.io/github/issues/lucelhosilva/Bot_Vagas_de_Emprego)
 
 <p align="center">
   <img alt="Projeto - Animated Login" src="./assets/IMG/preview-templates.png">
@@ -49,3 +46,11 @@ Para utilizar o projeto localmente, siga estas etapas:
    git clone https://github.com/seu-usuario/rotating-menu.git
    cd rotating-menu
    ```
+
+## Licença
+
+Este projeto está sob a [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE). Consulte o arquivo [LICENSE](./LICENSE) para obter mais detalhes.
+
+## Autor
+
+Feito com ❤️ por Lucelho Silva. [Entre em contato !](https://www.linkedin.com/in/lucelho-silva-b17196239/)
