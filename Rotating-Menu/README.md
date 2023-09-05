@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/IMG/printProjeto.png" alt="Projeto - Animated Login">
+  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Animated Login">
 </p>
 
 ## Sumário
