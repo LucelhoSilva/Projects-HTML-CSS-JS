@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Agenda Telefônica</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>Agenda Telefônica</h1>
+  </header>
+
+  <div class="container">
+    <form id="Form">
+      <label for="name">Nome:</label>
+      <input type="text" id="name" placeholder="Nome do Contato">
+      <label for="telephone">Telefone:</label>
+      <input type="tel" id="telephone" placeholder="Digite o telefone de contato seguindo o modelo :(+55)99999-9999">
+      <input type="submit" value="Cadastrar">
+    </form>
+    <table id="table">
+      <thead>
+        <tr>
+          <th>Nome</th>
+          <th>Telefone</th>
+          <th>Ações</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </div>
+  <script src="./script.js"></script>
+</body>
+</html>
