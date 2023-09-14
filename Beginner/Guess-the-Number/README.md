@@ -46,7 +46,7 @@ Para utilizar o projeto localmente, siga estas etapas:
 2. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/rotating-menu.git
+   git clone https://github.com/LucelhoSilva/Projects-HTML-CSS-JS.git
    cd rotating-menu
    ```
 
