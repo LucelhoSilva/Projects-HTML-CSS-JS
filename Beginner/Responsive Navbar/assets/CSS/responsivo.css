@@ -1,0 +1,34 @@
+@media (max-width: 832px) {
+  .container-header{
+    align-items: center;
+    background: #000000;
+    color: #ffffff;
+    display: flex;
+  }
+  .menu{
+    width: 100%;
+    height: 96vh;
+    background-color: #000;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 3.1rem;
+    left: 100%;
+    transition: all 1s;
+  }
+  #check {
+    display: none;
+  }
+  .checkBtn{
+    display: flex;
+    position: relative;
+    bottom: 50px;
+    right: 20px;
+    cursor: pointer;
+    font-size: 1.5rem;
+  }
+  #check:checked ~.menu{
+    left: 0%;
+  }
+  }

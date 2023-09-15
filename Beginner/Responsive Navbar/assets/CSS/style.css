@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&family=Ubuntu:wght@400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-header{
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 3rem;   
+  width: 100vw;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container-header .titulo a {
+  color: white;
+  font-size: 35px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.container-header .titulo a span {
+  color: #00CED1;
+  transition: all 0.3s ease;
+}
+
+.line{
+  border-bottom: 0.1rem solid white;
+  width: 100vw;
+}
+
+.navBar{
+  background-color: #000;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.navBar ul{
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 0.8rem;
+}
+
+.navBar li a{
+  padding: 0.3rem;
+  color: #a7b1bd;
+  cursor: pointer;
+  text-decoration: none;
+  position: relative;
+  transition: 0.5s all ease-in-out;
+}
+
+.navBar li a:hover{
+  color: #149bff;
+  transition: 0.5s all ease-in-out;
+}
+
+.navBar a::after{
+  content:" ";
+  width: 0%;
+  height: .6vh;
+  background-color: #ffffff;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  transition: 0.5s ease-in-out;
+}
+
+.navBar a:hover::after{
+  width: 100%;
+  border-radius: 25px;
+}
+
+.checkBtn{
+  display: none;
+}
+
+#check{
+  display: none;
+}
+
+.checkBtn{
+  margin-top: 0.9rem;
+  cursor: pointer;
+  float: right;
+}
