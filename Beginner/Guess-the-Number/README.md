@@ -1,4 +1,4 @@
-<h1 align="center"> Link Tree </h1>
+<h1 align="center"> Guess the Number </h1>
 
 <p align="center">
   <a href="#descrição-do-projeto">Descrição do Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Link Tree">
+  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Guess the Number">
 </p>
 
 ## Descrição do Projeto

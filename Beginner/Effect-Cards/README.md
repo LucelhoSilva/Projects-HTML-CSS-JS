@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/IMG/preview-templates.gif" alt="Projeto - Effect Cards">
+  <img src="./assets/IMG/preview-templates.gif" alt="Projeto - Effect Cards" >
 </p>
 
 ## Descrição do Projeto

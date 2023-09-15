@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Rotating Menu">
+  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Rotating Menu ">
 </p>
 
 ## Descrição do Projeto
