@@ -17,6 +17,10 @@ body {
   font-family: "EB Garamond", serif;
 }
 
+.noOverflow {
+  overflow: hidden;
+}
+
 header {
   background-color: var(--cor-destaque);
   position: absolute;
