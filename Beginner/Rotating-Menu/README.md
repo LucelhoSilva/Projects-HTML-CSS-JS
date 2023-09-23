@@ -49,7 +49,7 @@ Para utilizar o projeto localmente, siga estas etapas:
    S
    ```bash
    git clone https://github.com/LucelhoSilva/Projects-HTML-CSS-JS.git
-   cd rotating-menu
+   cd Rotating-Menu
    ```
 
 ## Licença

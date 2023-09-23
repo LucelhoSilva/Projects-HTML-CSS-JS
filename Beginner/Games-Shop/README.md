@@ -48,7 +48,7 @@ Para utilizar o projeto localmente, siga estas etapas:
 
    ```bash
    git clone https://github.com/LucelhoSilva/Projects-HTML-CSS-JS.git
-   cd rotating-menu
+   cd Games-Shop
    ```
 
 ## Licença
