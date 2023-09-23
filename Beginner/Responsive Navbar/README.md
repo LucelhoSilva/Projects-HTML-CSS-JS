@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/IMG/navbarResponsive.gif" alt="Projeto - Average Calculator ">
+  <img src="./assets/IMG/navbarResponsive.gif" alt="Projeto - Average Calculator" >
 </p>
 
 ## Descrição do Projeto

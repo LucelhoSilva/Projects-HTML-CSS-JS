@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Simple Profile Page">
+  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Simple Profile Page" >
 </p>
 
 ## Descrição do Projeto

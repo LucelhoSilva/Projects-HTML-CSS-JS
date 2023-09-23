@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/IMG/preview-templates.gif" alt="Projeto - Digital Resume">
+  <img src="./assets/IMG/preview-templates.gif" alt="Projeto - Digital Resume" >
 </p>
 
 ## Descrição do Projeto

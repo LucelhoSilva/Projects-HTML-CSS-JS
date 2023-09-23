@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Guess the Number">
+  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Guess the Number" >
 </p>
 
 ## Descrição do Projeto

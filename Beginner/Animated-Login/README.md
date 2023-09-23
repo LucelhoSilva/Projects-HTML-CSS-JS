@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Animated Login">
+  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Animated Login" >
 </p>
 
 ## Descrição do Projeto

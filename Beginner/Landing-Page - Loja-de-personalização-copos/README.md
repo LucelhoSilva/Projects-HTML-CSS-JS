@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Loja de personalização de copos">
+  <img src="./assets/IMG/preview-templates.png" alt="Projeto - Loja de personalização de copos" >
 </p>
 
 ## Descrição do Projeto
