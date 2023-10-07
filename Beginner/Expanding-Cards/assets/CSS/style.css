@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(189, 195, 201);
+}
+
+/* Container Principal */
+.container {
+  height: 85vh;
+  display: flex;
+  gap: 1.5rem;
+  overflow: hidden;
+  padding: 0 5.5rem;
+  position: relative; /* Adiciona posicionamento relativo ao container */
+}
+
+.container.coluna {
+  flex-direction: column;
+  align-items: center;
+}
+
+.card {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 85vh;
+  width: 85vw;
+  border: solid rgba(255, 255, 255, 0.8) 1px;
+  border-radius: 3.1rem;
+  color: #fff;
+  flex: 0.5;
+  box-sizing: border-box;
+  transition: flex 0.8s ease-in;
+  cursor: pointer;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  height: 100%;
+}
+
+.card-container h3 {
+  margin: 1rem 2rem;
+}
+
+.card1 {
+  background-image: url(https://images.unsplash.com/photo-1696418799976-b079670f33de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2000&q=80);
+}
+
+.card2 {
+  background-image: url(https://images.unsplash.com/photo-1696418799882-b54146b77c17?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1998&q=80);
+}
+
+.card3 {
+  background-image: url(https://images.unsplash.com/photo-1671615224739-27111f56cee9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80);
+}
+
+.card4 {
+  background-image: url(https://images.unsplash.com/photo-1691350508744-c972d16bb86e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80);
+}
+
+.active {
+  flex: 5;
+}
+
+button {
+  position: absolute;
+  bottom: 1rem;
+  border: none;
+  padding: 10px;
+  border-radius: 25px;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: aqua;
+}
