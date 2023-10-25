@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br" onkeypress="jump()">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jump Game</title>
+    <link rel="stylesheet" href="./assets/CSS/style.css" />
+  </head>
+
+  <body>
+    <header>
+      <form>
+        <label for="nameInput">Nome:</label>
+        <input type="text" id="nameInput" placeholder="Digite seu nickname" />
+        <button id="submitNameButton">Enviar</button>
+      </form>
+    </header>
+
+    <main>
+      <img src="./assets/IMG/tumblr_d02c422ed7785f20d7005a838574413d_313a69fb_500.webp" class="filtered-image" alt="Minha imagem filtrada" />
+
+      <section class="game">
+        <div id="character"></div>
+        <div id="block"></div>
+        <div id="block2"></div>
+        <div id="block3"></div>
+      </section>
+
+      <p>Pontuação: <span id="scoreSpan"></span></p>
+
+      <div class="button-container">
+        <div id="pauseButton" onclick="togglePause()">Pausa</div>
+      </div>
+    </main>
+
+    <footer>
+      <table>
+        <thead>
+          <tr>
+            <th>Nome</th>
+            <th>Pontuação</th>
+          </tr>
+        </thead>
+        <tbody id="scoreTableBody"></tbody>
+      </table>
+      <button id="clearButton">Limpar Pontuação</button>
+    </footer>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
