@@ -14,7 +14,7 @@
 body {
   background-color: var(--cor-fundo);
   overflow-x: hidden;
-  font-family: "EB Garamond", serif;
+  font-family: "Ubuntu", serif;
 }
 
 .noOverflow {
@@ -50,7 +50,7 @@ header {
 }
 
 img {
-  width: 100%;
+  width: 70%;
   object-fit: cover;
   object-position: center;
   border: 4px solid var(--cor-destaque);
@@ -70,6 +70,7 @@ h1 {
 p,
 h2 {
   padding: 1rem 0 0 0;
+  font-size: 18px;
 }
 
 .circleMenu {

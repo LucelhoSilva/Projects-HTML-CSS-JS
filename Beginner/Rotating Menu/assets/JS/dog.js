@@ -1,30 +1,8 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="Lucelho Silva" />
-    <meta name="description" content="Descubra por que os cachorros são os melhores amigos dos homens neste incrível artigo" />
-    <meta name="keywords" content="cachorros, melhores amigos, lealdade, amor, alegria, importância dos cachorros, relacionamento com cachorros" />
-    <link rel="stylesheet" href="./assets/CSS/style.css" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;700&display=swap" rel="stylesheet" />
-    <title>Cachorros os melhores amigos do homens ?</title>
-  </head>
-  <body>
-    <header>
-      <div class="container">
-        <div class="circleMenu">
-          <div class="menu">
-            <button id="open"><i class="fa-solid fa-bars"></i></button>
-            <button id="close"><i class="fa-solid fa-xmark"></i></button>
-          </div>
-        </div>
-      </div>
-    </header>
-    <main class="content">
-      <h1>Cachorros são considerados os melhores amigos do homem ?</h1>
+document.addEventListener('DOMContentLoaded', function() {
+  const dogsSection = document.createElement('section');
+  dogsSection.id = 'cachorros';
+  dogsSection.innerHTML = `
+    <h1>Cachorros são considerados os melhores amigos do homem ?</h1>
       <p class="author">Escrito por Lucelho Silva</p>
       <section id="inicio">
         <h2>Início</h2>
@@ -48,24 +26,8 @@
         <p>&bull; Algumas raças de cachorro, como o Border Collie, são excepcionalmente atléticas e adoram participar de esportes e atividades físicas.</p>
         <p>&bull; Os cachorros são animais sociais por natureza e muitas vezes formam laços fortes com seus donos e outros membros da família.</p>
       </section>
-    </main>
-    <nav>
-      <ul>
-        <li>
-          <a href="#inicio"><i class="fa-solid fa-house"></i> Inicio</a>
-        </li>
-        <li>
-          <a href="#sobre"><i class="fa-solid fa-address-card"></i> Sobre</a>
-        </li>
-        <li>
-          <a href="#Curiosidades"><i class="fa-solid fa-magnifying-glass"></i> Curiosidades</a>
-        </li>
-        <li>
-          <a href="./gato.html"><i class="fa-solid fa-cat"></i> Sobre os gatos</a>
-        </li>
-      </ul>
-    </nav>
-    <script src="script.js"></script>
-    <script src="https://kit.fontawesome.com/ad3bd62660.js" crossorigin="anonymous"></script>
-  </body>
-</html>
+  `;
+
+  const conteudoPrincipal = document.querySelector('.content');
+  conteudoPrincipal.appendChild(dogsSection);
+});
