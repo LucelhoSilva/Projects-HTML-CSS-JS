@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;   
+}
+
+#game{
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+#character{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    position: relative;
+    top: 400px;
+    left: 190px;
+    z-index: 1000000;
+}
+
+.block{
+    width: 400px;
+    height: 20px;
+    background-color: black;
+    position: relative;
+    top: 100px;
+    margin-top: -20px;   
+}
+
+.hole{
+    width: 40px;
+    height: 20px;
+    background-color: white;
+    position: relative;
+    top: 100px;
+    margin-top: -20px;
+}
+
+#score{
+    width: fit-content;
+    height: 100px;
+    background-color: white;
+    position: relative;
+    top: 50px;
+    left: 435px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    z-index: 1000000;
+}
